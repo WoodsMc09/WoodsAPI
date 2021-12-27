@@ -1,0 +1,9 @@
+name: WoodsAPI
+version: '${project.version}'
+main: me.woodsmc.woodsapi.WoodsAPI
+api-version: 1.17
+commands:
+  woodsapi:
+    description: nbfd
+    aliases:
+      - wa
